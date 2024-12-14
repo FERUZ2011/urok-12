@@ -1,0 +1,29 @@
+.text{
+float: left;
+width: 30%;
+padding: 10%;
+}
+.fs-img{
+width: 30%;
+margin: 10%;
+margin-top: 4%;
+float: right;
+}
+.text > h1{
+    font-size: 50px;
+    margin: 40px 0;
+}
+ul{
+margin-left: 24px;
+font-size: 19px;
+}
+button{
+background-color: green;
+margin-top: 40px;
+padding: 10px 30px;
+border-radius: 6px;
+border: none;
+color: white;
+cursor: pointer;
+font-size: 20px;
+}
